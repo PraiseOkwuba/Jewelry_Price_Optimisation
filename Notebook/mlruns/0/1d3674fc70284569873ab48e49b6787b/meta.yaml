@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ifenn/OneDrive/Desktop/Amdari%20Projects/Jewelry_Price_Optimisation/Notebook/mlruns/0/1d3674fc70284569873ab48e49b6787b/artifacts
+end_time: 1748877254306
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d3674fc70284569873ab48e49b6787b
+run_name: SVR
+run_uuid: 1d3674fc70284569873ab48e49b6787b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748876977908
+status: 3
+tags: []
+user_id: ifenn
