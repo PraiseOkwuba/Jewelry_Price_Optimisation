@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ifenn/OneDrive/Desktop/Amdari%20Projects/Jewelry_Price_Optimisation/Notebook/mlruns/0/ec9c1c1e37564e1b9bd3354598c94e4c/artifacts
+end_time: 1749899130091
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec9c1c1e37564e1b9bd3354598c94e4c
+run_name: Linear Regression
+run_uuid: ec9c1c1e37564e1b9bd3354598c94e4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749899112627
+status: 3
+tags: []
+user_id: ifenn

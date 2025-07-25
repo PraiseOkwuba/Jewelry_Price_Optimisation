@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ifenn/OneDrive/Desktop/Amdari%20Projects/Jewelry_Price_Optimisation/Notebook/mlruns/0/16059cf4c82244238ec0271df56efe1f/artifacts
+end_time: 1749900046507
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16059cf4c82244238ec0271df56efe1f
+run_name: XGBoost Improved
+run_uuid: 16059cf4c82244238ec0271df56efe1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749900037141
+status: 3
+tags: []
+user_id: ifenn
